@@ -4,9 +4,11 @@ layout: default
 
 Bayesian Group is a online engangement between the students and researchers of Machine Learning, Mathematics and Theoretical Physics. It intends to discuss the confluence and influence between the three subjects in context of ML.
 
-[Link to another page](./another-page.html).
+[Join the Mailing List](https://forms.gle/iZGHJ1qYHyg6KbAH6)
 
-There should be whitespace between paragraphs.
+<!-- [Link to another page](./another-page.html). -->
+
+<!-- There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -120,4 +122,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
