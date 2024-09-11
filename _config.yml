@@ -3,3 +3,14 @@ description: A collaboration of ML, Math and Theoretical Physics.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+collections:
+  people:
+    output: true
+    permalink: /people/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "person"
