@@ -6,6 +6,8 @@ Bayesian Group is a online engangement between the students and researchers of M
 
 [Join the Mailing List](https://forms.gle/iZGHJ1qYHyg6KbAH6)
 
+To contact, you may write to [Aayush Verma](aayushayh.github.io) at this [email address](mailto:aayushverma6380@gmail.com) or [Vaibhav Kalvakota](vkalvakotamath.github.io) at this [email address](mailto:vaibhavkalvakota@gmail.com).
+
 <!-- [Link to another page](./another-page.html). -->
 
 <!-- There should be whitespace between paragraphs.
