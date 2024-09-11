@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Events
-description: false
-show_downloads: false
+description: Track the events from this page for Bayesian Group.
+show_downloads: true
 ---
 
 ## Upcoming Events
