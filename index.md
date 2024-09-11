@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Bayesian Group is a online engangement between the students and researchers of Machine Learning, Mathematics and Theoretical Physics. It intends to discuss the confluence and influence between the three subjects in context of ML.
+Bayesian Group is an online engangement for the students, researchers (and anybody with a curious mind) in Machine Learning, Mathematics and Theoretical Physics. It intends to discuss the confluence and influence between the three subjects in context of ML.
 
 [Join the Mailing List](https://forms.gle/iZGHJ1qYHyg6KbAH6)
 
