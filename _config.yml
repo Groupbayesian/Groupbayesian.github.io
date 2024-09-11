@@ -6,7 +6,7 @@ theme: jekyll-theme-cayman
 collections:
   people:
     output: true
-    permalink: /people/:name/
+    permalink: /people/:slug/
 
 defaults:
   - scope:
